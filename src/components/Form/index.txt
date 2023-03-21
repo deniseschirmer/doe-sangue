@@ -1,0 +1,5 @@
+1 - criar um array para armazenar as informações do formulario X
+2 - criar função para click do botão que previna o comportamento padrão do botão X
+3 - dentro da função do click do botao montar o objeto com os valors obtidos nos inputs X
+4 - inserir objeto criado no array
+5 - exibir valores em forma de lista para o usuário

@@ -1,0 +1,14 @@
+.gota{
+    width: 50px;
+    height: 50px;
+}
+
+.red{
+    color: red;
+}
+
+.titulo-footer{
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}

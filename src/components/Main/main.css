@@ -1,0 +1,38 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.sub-titulo{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family:'Roboto', sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+.botao{
+    background-color: #FF2B4D;
+    border: 1px solid #FF2B4D;
+    color:#DDDDDD;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.area-botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
