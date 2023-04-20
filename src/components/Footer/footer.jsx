@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer>
       <h4 className="titulo-footer">
-        Útimos <span className="red"> doadores</span>
+        Últimos <span className="red"> doadores</span>
       </h4>
       <img src={gota} alt="gota" className="gota" />
       <img src={gota} alt="gota" className="gota" />
@@ -13,8 +13,6 @@ function Footer() {
       <img src={gota} alt="gota" className="gota" />
     </footer>
   );
-
 }
 
 export default Footer;
-

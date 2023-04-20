@@ -1,14 +1,19 @@
-.gota{
-    width: 50px;
-    height: 50px;
+.gota::before {
+  content: "";
+  background-color: #ff4f4f11;
+
+  width: 40px;
+  height: 40px;
+
+  position: absolute;
 }
 
-.red{
-    color: red;
+.red {
+  color: red;
 }
 
-.titulo-footer{
-    font-family: 'Roboto', sans-serif;
-    font-size: 32px;
-    font-weight: 400;
+.titulo-footer {
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
 }
